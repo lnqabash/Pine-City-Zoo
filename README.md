@@ -8,7 +8,7 @@ Welcome to the Pine City Zoo interactive web app! This project is a fun, educati
 
 ## 🌐 Live Demo
 
-> Coming soon... (Add GitHub Pages or Netlify/Vercel link if deployed)
+> Coming soon...
 
 ---
 
